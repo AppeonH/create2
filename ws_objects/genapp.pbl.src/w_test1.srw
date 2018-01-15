@@ -38,8 +38,8 @@ destroy(this.cb_1)
 end on
 
 type st_1 from statictext within w_test1
-integer x = 325
-integer y = 604
+integer x = 558
+integer y = 416
 integer width = 402
 integer height = 64
 integer textsize = -10
