@@ -4,11 +4,15 @@
 @end;
 @begin Objects 
  "genapp.sra" "genapp.pbl";
+ "d_richtxt.srd" "genapp.pbl";
  "w_test2.srd" "genapp.pbl";
  "m_genapp_frame.srm" "genapp.pbl";
  "m_genapp_sheet.srm" "genapp.pbl";
  "n_genapp_connectservice.sru" "genapp.pbl";
  "n_genapp_sheetmanager.sru" "genapp.pbl";
+ "nvo_httpclient.sru" "genapp.pbl";
+ "nvo_jsongenerator.sru" "genapp.pbl";
+ "nvo_restclient.sru" "genapp.pbl";
  "w_genapp_about.srw" "genapp.pbl";
  "w_genapp_basesheet.srw" "genapp.pbl";
  "w_genapp_frame.srw" "genapp.pbl";
