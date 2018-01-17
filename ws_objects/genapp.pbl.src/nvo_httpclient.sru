@@ -19,3 +19,6 @@ TriggerEvent( this, "destructor" )
 call super::destroy
 end on
 
+event constructor;//
+end event
+
