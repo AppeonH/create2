@@ -4,7 +4,10 @@
 @end;
 @begin Objects 
  "genapp.sra" "genapp.pbl";
+ "d_ole.srd" "genapp.pbl";
  "d_richtxt.srd" "genapp.pbl";
+ "d_treeview.srd" "genapp.pbl";
+ "d_treeview2.srd" "genapp.pbl";
  "w_test2.srd" "genapp.pbl";
  "m_genapp_frame.srm" "genapp.pbl";
  "m_genapp_sheet.srm" "genapp.pbl";
